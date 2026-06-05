@@ -7,7 +7,7 @@ import { Language, TranslationDict } from './types';
 
 export const translations: Record<Language, TranslationDict> = {
   en: {
-    appName: "AFSAR Auto Sales",
+    appName: "ROOPAM Auto Sales",
     heroTitle: "Find Your Perfect Two-Wheeler",
     heroSubtitle: "Browse verified second-hand bikes at unbeatable prices and connect directly with owners on WhatsApp.",
     sellBtn: "Sell My Bike",
