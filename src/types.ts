@@ -92,4 +92,24 @@ export interface TranslationDict {
   submitPostBtn: string;
   cancelBtn: string;
   successMsg: string;
+  // Theme & New Contact section translations
+  themeModeLabel: string;
+  contactHeading: string;
+  contactSubheading: string;
+  storeAddressLabel: string;
+  storeAddressValue: string;
+  storePhoneLabel: string;
+  storeHoursLabel: string;
+  storeHoursValue: string;
+  mapTitle: string;
+  findUsOnMap: string;
+  // Navigation & About Translations
+  navHome: string;
+  navAbout: string;
+  navContact: string;
+  aboutTitle: string;
+  aboutText1: string;
+  aboutText2: string;
+  aboutYearsHeading: string;
+  establishedSince: string;
 }

@@ -7,7 +7,7 @@ import { Language, TranslationDict } from './types';
 
 export const translations: Record<Language, TranslationDict> = {
   en: {
-    appName: "ROOPAM Auto Sales",
+    appName: "Roopam Auto Sales",
     heroTitle: "Find Your Perfect Two-Wheeler",
     heroSubtitle: "Browse verified second-hand bikes at unbeatable prices and connect directly with owners on WhatsApp.",
     sellBtn: "Sell My Bike",
@@ -60,10 +60,30 @@ export const translations: Record<Language, TranslationDict> = {
     descriptionLabel: "Tell buyers more (specs, features, minor issues)",
     submitPostBtn: "Publish Listing",
     cancelBtn: "Cancel",
-    successMsg: "Success! Your listing has been published."
+    successMsg: "Success! Your listing has been published.",
+    // Theme & Contact Section Translations
+    themeModeLabel: "Theme Mode",
+    contactHeading: "Contact Roopam Auto Sales",
+    contactSubheading: "Visit our physical store to check premium selected bikes and seal direct, offline deals with complete trust.",
+    storeAddressLabel: "Main Showroom Address",
+    storeAddressValue: "Shop No. 12, Near Hazratganj Crossing, Lucknow, UP - 226001",
+    storePhoneLabel: "Store Direct Helpline",
+    storeHoursLabel: "Dealership Hours",
+    storeHoursValue: "Mon - Sat: 10:00 AM to 8:30 PM (Sunday Closed)",
+    mapTitle: "Interactive Showroom Location Map",
+    findUsOnMap: "Find Us On Map",
+    // Navigation & About Translations
+    navHome: "Bikes Catalog",
+    navAbout: "About Dealership",
+    navContact: "Store Location",
+    aboutTitle: " लखनऊ's Premier Trusted Dealership",
+    aboutText1: "With over 10 years of exceptional vehicle dealership experience, Roopam Auto Sales has been Lucknow's premier hub for certified, high-quality, pre-owned two-wheelers.",
+    aboutText2: "Since 2016, we have built absolute customer trust by offering transparent prices, fully verified mechanical diagnostics, and seamless transactions. Over the past 10 years, our offline store in Lucknow has helped thousands of riders find their perfect companion. Stop by today or reach out directly on WhatsApp!",
+    aboutYearsHeading: "10+ Years of Trust & Quality",
+    establishedSince: "Established Since 2016 (10+ Years of Trust)"
   },
   hi: {
-    appName: "अफ़सार ऑटो सेल्स (ROOPAM Auto Sales)",
+    appName: "रूपम ऑटो सेल्स (Roopam Auto Sales)",
     heroTitle: "अपनी मनपसंद दो-पहिया गाड़ी पाएं",
     heroSubtitle: "कम दामों में वेरिफाइड पुरानी बाइक देखें और सीधे व्हाट्सएप पर गाड़ी के मालिकों से बात करें।",
     sellBtn: "अपनी बाइक बेचें",
@@ -116,6 +136,26 @@ export const translations: Record<Language, TranslationDict> = {
     descriptionLabel: "खरीदार को अधिक जानकारी दें (विशेषताएं, कोई कमी हो तो)",
     submitPostBtn: "प्रकाशन लिस्टिंग",
     cancelBtn: "रद्द करें",
-    successMsg: "सफलता! आपकी लिस्टिंग सफलतापूर्वक प्रकाशित हो गई है।"
+    successMsg: "सफलता! आपकी लिस्टिंग सफलतापूर्वक प्रकाशित हो गई है।",
+    // Theme & Contact Section Translations
+    themeModeLabel: "थीम मोड",
+    contactHeading: "रूपम ऑटो सेल्स से संपर्क करें",
+    contactSubheading: "प्रीमियम चुनिंदा बाइकों को देखने के लिए हमारे स्टोर पर आएं और पूरे भरोसे के साथ सीधे, ऑफलाइन डील फाइनल करें।",
+    storeAddressLabel: "मुख्य शोरूम का पता",
+    storeAddressValue: "दुकान नंबर 12, हजरतगंज चौराहा के पास, लखनऊ, उत्तर प्रदेश - 226001",
+    storePhoneLabel: "स्टोर हेल्पलाइन नंबर",
+    storeHoursLabel: "डीलरशिप समय",
+    storeHoursValue: "सोम - शनि: सुबह 10:00 बजे से रात 8:30 बजे तक (रविवार बंद)",
+    mapTitle: "इंटरएक्टिव शोरूम मानचित्र (मैप)",
+    findUsOnMap: "नक्शे पर हमारे पास पहुंचें",
+    // Navigation & About Translations
+    navHome: "बाईक सूची",
+    navAbout: "हमारे बारे में",
+    navContact: "शोरूम का नक्शा",
+    aboutTitle: "लखनऊ की प्रमुख और सबसे विश्वसनीय डीलरशिप",
+    aboutText1: "वाहन डीलरशिप में 10 वर्षों से अधिक के उत्कृष्ट और बेदाग अनुभव के साथ, रूपम ऑटो सेल्स लखनऊ का सबसे प्रमुख और लोकप्रिय पुराना दोपहिया वाहन शोरूम रहा है।",
+    aboutText2: "वर्ष 2016 से, हमने लखनऊ के हजारों ग्राहकों की संतुष्टि और अटूट विश्वास अर्जित किया है। हम प्रत्येक गाड़ी की पारदर्शी कीमत, मैकेनिकल जांच रिपोर्ट और आसान कागजी कार्रवाई सुनिश्चित करते हैं। आज ही पधारें या सीधे व्हाट्सएप पर संपर्क करें!",
+    aboutYearsHeading: "10+ वर्षों का अटूट विश्वास और शुद्ध गुणवत्ता",
+    establishedSince: "2016 से स्थापित (10+ वर्षों का अटूट भरोसा)"
   }
 };
