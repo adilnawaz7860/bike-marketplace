@@ -1,0 +1,6 @@
+{
+  "name": "AFSAR Auto Sales",
+  "description": "A modern P2P marketplace for buying and selling second-hand bikes with easy search, filters, and direct WhatsApp contact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
