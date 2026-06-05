@@ -145,7 +145,7 @@ export default function BikeCard({ bike, lang, t }: BikeCardProps) {
           </div>
           <div className="flex items-center gap-1">
             <User size={14} className="text-amber-500 shrink-0" />
-            <span><strong className="text-gray-600 dark:text-zinc-300">{t.ownerLabel}:</strong> {bike.ownerName}</span>
+            <span><strong className="text-gray-600 dark:text-zinc-300">{t.ownerLabel}:</strong> {"ROOPAM Auto Sales"}</span>
           </div>
           
           {/* Condition Badge */}
