@@ -63,7 +63,7 @@ export const translations: Record<Language, TranslationDict> = {
     successMsg: "Success! Your listing has been published."
   },
   hi: {
-    appName: "अफ़सार ऑटो सेल्स (AFSAR Auto Sales)",
+    appName: "अफ़सार ऑटो सेल्स (ROOPAM Auto Sales)",
     heroTitle: "अपनी मनपसंद दो-पहिया गाड़ी पाएं",
     heroSubtitle: "कम दामों में वेरिफाइड पुरानी बाइक देखें और सीधे व्हाट्सएप पर गाड़ी के मालिकों से बात करें।",
     sellBtn: "अपनी बाइक बेचें",
